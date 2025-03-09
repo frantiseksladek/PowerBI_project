@@ -2,7 +2,7 @@
 
 Železniční doprava v Evropě prochází kontinuálním vývojem. Mezi hlavní parametry změn posledních dekád patří:
 
-- **Rozšiřování jednotného evropského systému řízení provozu na železnici (ERTMS)**.
+- **Rozšiřování jednotného evropského systému řízení provozu na železnici (ERTMS) s vlakovým zabezpečovačem ETCS**.
 - **Výstavba liniové elektrizace tratí** ("zatrolejování tratí").
 
 ## ERTMS - Evropský systém řízení provozu
