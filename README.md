@@ -33,7 +33,6 @@ Tento proces přispívá k:
 1. [Eurostat - Data o elektrizaci železničních tratích](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/rail_if_line_tr/?format=SDMX-CSV)
 
 2. [Eurostat - Data o ERTMS](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/rail_if_traff/A.KM+PC.TRACK+RADIO.BE+BG+CZ+DK+DE+EE+EL+ES+FR+HR+IT+LV+LT+LU+HU+NL+AT+PL+PT+RO+SI+SK+FI+SE+CH+UK?format=SDMX-CSV)
-   -
 
 3. [Eurostat - Data o rozloze států](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/reg_area3/A.TOTAL.KM2.EU27_2020+BE+BG+CZ+DK+DE+EE+IE+EL+ES+FR+HR+IT+CY+LV+LT+LU+HU+MT+NL+AT+PL+PT+RO+SI+SK+FI+SE+IS+LI+NO+CH+UK+ME+MK+AL+TR+XK?format=SDMX-CSV)
 
