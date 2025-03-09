@@ -40,3 +40,4 @@ Tento proces přispívá k:
 
 **František Sládek**  
 [LinkedIn profil](https://www.linkedin.com/in/franti%C5%A1ek-sl%C3%A1dek-8297b85b/)
+Discord: frantiseksladek_
