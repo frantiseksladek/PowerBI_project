@@ -28,9 +28,16 @@ Tento proces přispívá k:
 - **Ekologizaci** dopravy.
 - **Zrychlení vlakového provozu**.
 
-## Odkazy a další informace
+## Odkazy na tabulky
 
-- [Eurostat - Data o železniční dopravě](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/reg_area3/A.TOTAL.KM2.EU27_2020+BE+BG+CZ+DK+DE+EE+IE+EL+ES+FR+HR+IT+CY+LV+LT+LU+HU+MT+NL+AT+PL+PT+RO+SI+SK+FI+SE+IS+LI+NO+CH+UK+ME+MK+AL+TR+XK?format=SDMX-CSV)
+1. [Eurostat - Data o železniční dopravě v Evropě](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/reg_area3/A.TOTAL.KM2.EU27_2020+BE+BG+CZ+DK+DE+EE+IE+EL+ES+FR+HR+IT+CY+LV+LT+LU+HU+MT+NL+AT+PL+PT+RO+SI+SK+FI+SE+IS+LI+NO+CH+UK+ME+MK+AL+TR+XK?format=SDMX-CSV)
+   - Tato tabulka obsahuje data o celkové délce železničních tratí v Evropě za rok 2020.
+
+2. [Rozložení států v Evropské unii](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Map_of_EU_member_states,_2020.png)
+   - Tento zdroj obsahuje mapu a informace o rozložení států v Evropské unii k roku 2020.
+
+3. [Další zdroje pro ERTMS a elektrizaci tratí](https://www.ertrac.org/)
+   - Tento zdroj obsahuje podrobnosti o vývoji a implementaci systému ERTMS v Evropě a projektech liniové elektrizace tratí.
 
 ## Autor
 
