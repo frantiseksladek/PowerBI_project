@@ -24,9 +24,9 @@ Součástí systému ERTMS je evropský vlakový zabezpečovací systém **ETCS*
 - Výkon kolejových vozidel.
   
 Tento proces přispívá k:
-- **Ekonomizaci** železniční dopravy.
-- **Ekologizaci** dopravy.
-- **Zrychlení vlakového provozu**.
+- **Ekonomizaci**,
+- **Ekologizaci**,
+- **Zrychlení provozu**.
 
 ## Odkazy na datové zdroje
 
