@@ -8,9 +8,9 @@
 ## ERTMS - Evropský systém řízení provozu
 
 Systém **ERTMS** (European Rail Traffic Management System) standardizuje provoz na evropských tratích za účelem:
-- Vyšší bezpečnosti.
+- Zvýšení bezpečnosti.
 - Interoperability.
-- Zajištění větší propustnosti tratí.
+- Zajištění vyšší propustnosti tratí.
 
 ### Vlakový zabezpečovací systém (ETCS)
 Součástí systému ERTMS je evropský vlakový zabezpečovací systém **ETCS**. Tento systém je rozšířen ve dvou základních aplikačních úrovních:
@@ -28,16 +28,14 @@ Tento proces přispívá k:
 - **Ekologizaci** dopravy.
 - **Zrychlení vlakového provozu**.
 
-## Odkazy na tabulky
+## Odkazy na datové zdroje
 
-1. [Eurostat - Data o železniční dopravě v Evropě](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/reg_area3/A.TOTAL.KM2.EU27_2020+BE+BG+CZ+DK+DE+EE+IE+EL+ES+FR+HR+IT+CY+LV+LT+LU+HU+MT+NL+AT+PL+PT+RO+SI+SK+FI+SE+IS+LI+NO+CH+UK+ME+MK+AL+TR+XK?format=SDMX-CSV)
-   - Tato tabulka obsahuje data o celkové délce železničních tratí v Evropě za rok 2020.
+1. [Eurostat - Data o elektrizaci železničních tratích](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/rail_if_line_tr/?format=SDMX-CSV)
 
-2. [Rozložení států v Evropské unii](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Map_of_EU_member_states,_2020.png)
-   - Tento zdroj obsahuje mapu a informace o rozložení států v Evropské unii k roku 2020.
+2. [Eurostat - Data o ERTMS](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/rail_if_traff/A.KM+PC.TRACK+RADIO.BE+BG+CZ+DK+DE+EE+EL+ES+FR+HR+IT+LV+LT+LU+HU+NL+AT+PL+PT+RO+SI+SK+FI+SE+CH+UK?format=SDMX-CSV)
+   -
 
-3. [Další zdroje pro ERTMS a elektrizaci tratí](https://www.ertrac.org/)
-   - Tento zdroj obsahuje podrobnosti o vývoji a implementaci systému ERTMS v Evropě a projektech liniové elektrizace tratí.
+3. [Eurostat - Data o rozloze států](https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/reg_area3/A.TOTAL.KM2.EU27_2020+BE+BG+CZ+DK+DE+EE+IE+EL+ES+FR+HR+IT+CY+LV+LT+LU+HU+MT+NL+AT+PL+PT+RO+SI+SK+FI+SE+IS+LI+NO+CH+UK+ME+MK+AL+TR+XK?format=SDMX-CSV)
 
 ## Autor
 
